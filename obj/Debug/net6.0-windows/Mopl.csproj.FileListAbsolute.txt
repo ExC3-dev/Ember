@@ -1,0 +1,15 @@
+C:\Users\Iyoukeen\Ember\bin\Debug\net6.0-windows\Mopl.exe
+C:\Users\Iyoukeen\Ember\bin\Debug\net6.0-windows\Mopl.deps.json
+C:\Users\Iyoukeen\Ember\bin\Debug\net6.0-windows\Mopl.runtimeconfig.json
+C:\Users\Iyoukeen\Ember\bin\Debug\net6.0-windows\Mopl.dll
+C:\Users\Iyoukeen\Ember\bin\Debug\net6.0-windows\Mopl.pdb
+C:\Users\Iyoukeen\Ember\obj\Debug\net6.0-windows\Mopl.csproj.AssemblyReference.cache
+C:\Users\Iyoukeen\Ember\obj\Debug\net6.0-windows\Mopl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iyoukeen\Ember\obj\Debug\net6.0-windows\Mopl.AssemblyInfoInputs.cache
+C:\Users\Iyoukeen\Ember\obj\Debug\net6.0-windows\Mopl.AssemblyInfo.cs
+C:\Users\Iyoukeen\Ember\obj\Debug\net6.0-windows\Mopl.csproj.CoreCompileInputs.cache
+C:\Users\Iyoukeen\Ember\obj\Debug\net6.0-windows\Mopl.dll
+C:\Users\Iyoukeen\Ember\obj\Debug\net6.0-windows\refint\Mopl.dll
+C:\Users\Iyoukeen\Ember\obj\Debug\net6.0-windows\Mopl.pdb
+C:\Users\Iyoukeen\Ember\obj\Debug\net6.0-windows\Mopl.genruntimeconfig.cache
+C:\Users\Iyoukeen\Ember\obj\Debug\net6.0-windows\ref\Mopl.dll
