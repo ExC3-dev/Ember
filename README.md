@@ -43,3 +43,6 @@ Some C# programming knowledge is needed. Recommended tools to help mod Bopl Batt
 5. Install and test your mod in Bopl Battle.
 
 ---
+
+> ![WARNING]
+>A lot of features may not work, this is still under development!
