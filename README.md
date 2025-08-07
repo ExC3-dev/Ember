@@ -1,10 +1,10 @@
-# 🔥 Ember
+# 🔥 Ember 🔥
 
 **Ember** is a lightweight IDE for creating mods for **Bopl Battle**. It includes everything you need to get started quickly and efficiently.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Easy template creation
 - C# code editor
@@ -14,7 +14,7 @@
 
 ---
 
-## 📦 Installation
+## Installation
 
 1. Go to the [Download Page](#) *(insert link when available)*.
 2. Click **Download**.
@@ -24,7 +24,7 @@
 
 ---
 
-## 🛠️ How to Use
+## 🛠How to Use
 
 Some C# programming knowledge is needed. Recommended tools to help mod Bopl Battle:
 
@@ -34,7 +34,7 @@ Some C# programming knowledge is needed. Recommended tools to help mod Bopl Batt
 - [BepInEx](https://github.com/BepInEx/BepInEx) – Modding framework for Unity
 - [ThunderStore Mod Packager](https://abstractmelon.net/thunderstore-packager) – Easily bundle your mods
 
-### ✨ Modding Workflow:
+### Modding Workflow:
 
 1. Use **DnSpy** to explore game code.
 2. Write your patch using **Harmony** and **BepInEx**.
@@ -43,17 +43,3 @@ Some C# programming knowledge is needed. Recommended tools to help mod Bopl Batt
 5. Install and test your mod in Bopl Battle.
 
 ---
-
-## 💡 Tip
-
-If you're stuck or curious about how something works in-game, Unity Explorer is your friend.
-
----
-
-## 🧪 Got bugs?
-
-File an issue or scream into the void. Your call.
-
----
-
-Made with love and zero refunds by modders, for modders.
