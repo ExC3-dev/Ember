@@ -1,6 +1,6 @@
 # 🔥 Ember 🔥
 
-**Ember** is a lightweight IDE for creating mods for **Bopl Battle**. It includes everything you need to get started quickly and efficiently.
+**Ember** is a IDE for creating mods for **Bopl Battle**. It includes everything you need to get started quickly and efficiently.
 
 ---
 
@@ -16,12 +16,14 @@
 
 ## Installation
 
-1. Go to the [Download Page](#) *(insert link when available)*.
+1. simply download the repo!
+
+ <!-- 1. Go to the [Download Page](#) *(insert link when available)*.
 2. Click **Download**.
 3. Run the file and follow the install prompts.
 4. Ember will set up everything required for modding.
 5. Once finished, click **Finish** and launch Ember.
-
+-->
 ---
 
 ## 🛠How to Use
