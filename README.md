@@ -46,5 +46,5 @@ Some C# programming knowledge is needed. Recommended tools to help mod Bopl Batt
 
 ---
 
-> ![WARNING]
+> [!WARNING]
 >A lot of features may not work, this is still under development!
